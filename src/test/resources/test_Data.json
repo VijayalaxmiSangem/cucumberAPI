@@ -1,0 +1,56 @@
+{
+  "postRequest": {
+    "name": "Tenali Ramakris_new_new",
+    "gender": "male",
+    "status": "active"
+  },
+  "putRequest": {
+    "id": 0,
+    "name": "Tenali Ramakris_new",
+    "gender": "male",
+    "status": "inactive"
+  },
+  "createPost": {
+    "title": "actually this is the title",
+    "body": "and This is the body."
+  },
+  "putPost": {
+    "title": "actually this is the updated title",
+    "body": "and This is the body."
+  },
+  "postComments": {
+    "name": "Aatmaja Nehru VM",
+    "email": "capg@gmail.com",
+    "body": "Architecto voluptas qui. Ut tempore dolor. Eos ea repudiandae."
+  },
+  "putComments": {
+    "name": "Aatmaja Nehru VM",
+    "email": "capg@gmail.com",
+    "body": "updated boduy e dolor. Eos ea repudiandae."
+  },
+  "postTodo": {
+    "id": 1758,
+    "user_id": 3516,
+    "title": "Est conventus cruciamentum annus corrumpo contego cavus traho adflicto.",
+    "due_on": "2022-08-17T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "putTodo": {
+    "id": 1758,
+    "user_id": 3516,
+    "title": "Est conventus cruciamentum annus corrumpo contego cavus traho adflicto.",
+    "due_on": "2022-08-17T00:00:00.000+05:30",
+    "status": "completed"
+  },
+  "invalidEmailComments": {
+    "name": "Aatmaja Nehru VM",
+    "email": "capggmail.com",
+    "body": "Architecto voluptas qui. Ut tempore dolor. Eos ea repudiandae."
+  },
+  "invalidStatusTodo": {
+
+    "title": "Est conventus cruciamentum annus corrumpo contego cavus traho adflicto.",
+    "due_on": "2022-08-17T00:00:00.000+05:30",
+    "status": "incompleted"
+  }
+}
